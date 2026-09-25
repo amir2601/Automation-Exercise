@@ -27,18 +27,13 @@ This repository contains an automated test script for validating the user login 
    ```bash
    git clone https://github.com/amir2601/Automation-Exercise.git
 
+2. **Install dependencies:**
+   ```bash
+      npm install
 
-2. Install dependencies:
-
-Bash
-
-npm install
-
-3. Run the test:
-
-Bash
-
-node test.js
+3. **Run the test:**
+   ```bash
+      node test.js
 
 👤 Author: MD Amir Hossin Riad
 📧 Email: amir26hossin@gmail.com
